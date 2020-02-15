@@ -4,3 +4,6 @@
 *.gz
 .vscode
 .DS_Store
+
+# JetBrains
+.idea
